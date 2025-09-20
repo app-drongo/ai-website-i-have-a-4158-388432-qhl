@@ -14,6 +14,7 @@ import {
   MessageSquare,
   Users,
   Headphones,
+  Calendar,
   Zap,
   Shield,
   Rocket,
